@@ -1,5 +1,7 @@
 # Chrono Trigger - Conviction Edition
 
+**Small patches for Chrono Trigger that 1) graphically change Ayla's sprites to have more decent attire while still maintaining the feel of the character, and 2) change dialog in Magus's Castle to remove strange references surrounding Flea.**
+
 Patches can be applied using Marc Robledo's Rom Patcher JS, located here: https://www.romhacking.net/patch/
 
 Changelog:
